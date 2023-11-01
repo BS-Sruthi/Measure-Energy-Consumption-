@@ -60,41 +60,41 @@ Follow these steps to set up the project on your local machine:
 
 ## Usage
 
-To collect energy consumption data, run the following command:
+ To collect energy consumption data, run the following command:
 
    python collect_data.py
 
-To analyze and visualize the data, use the 'analyze_data.py' script:
+ To analyze and visualize the data, use the 'analyze_data.py' script:
 
    python analyze_data.py
 
 ## Configuration
 
-If your project requires any configuration settings, provide information on how to set them up. For example:
+ If your project requires any configuration settings, provide information on how to set them up. For example:
 
-You can configure the data collection interval by modifying the 'config.json' file. Open the file and update the 'collection_interval' field to your desired interval in seconds.   
+ You can configure the data collection interval by modifying the 'config.json' file. Open the file and update the  'collection_interval' field to your desired interval in seconds.   
 
 ## Data Storage
 
-Explain where the collected data is stored and how users can access it. You might provide instructions on how to change the data storage location or format.
+ Explain where the collected data is stored and how users can access it. You might provide instructions on how to change  the data storage location or format.
 
-By default, collected data is stored in the 'data/' directory in CSV format.
+ By default, collected data is stored in the 'data/' directory in CSV format.
 
 ## Visualization
 
-If your project includes data visualization, provide details on how to view the visualizations. You can include screenshots or examples.
+ If your project includes data visualization, provide details on how to view the visualizations. You can include     screenshots or examples.
 
-Visualizations can be found in the 'visualizations/' directory. To view the visualizations, open the HTML files in your web browser.
+ Visualizations can be found in the 'visualizations/' directory. To view the visualizations, open the HTML files in your  web browser.
 
 ## Contributing
 
-Explain how others can contribute to your project. This may include guidelines for pull requests, code style, and more.
+ Explain how others can contribute to your project. This may include guidelines for pull requests, code style, and more.
 
 ##  License
 
-Specify the project's license. For example:
+ Specify the project's license. For example:
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+ This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
